@@ -8,7 +8,7 @@ public class Main {
 //       obj.validatingAboutMeForm();
 //       TestContact objTest = new TestContact();
 //       objTest.top10();
-       TestInterview objInter = new TestInterview();
+       TestInterview objInter = new TestInterview(); /*This is to test Github*/
        objInter.validateTestInterview();
        //Set the path of executable browser
       /* System.setProperty("webdriver.chrome.driver",
